@@ -31,9 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![empd 2](https://github.com/user-attachments/assets/bc078b23-5d67-4aaa-845f-0a4da60a50eb)
 
 ### Output:
 
+![empd 3](https://github.com/user-attachments/assets/8ca1b042-1d7c-4f1f-8823-a3b3311202ac)
 
 ### Name:
 ### Register Number:
